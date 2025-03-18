@@ -107,6 +107,8 @@ dist
 # TernJS port file
 .tern-port
 
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
 
 # yarn v2
 .yarn/cache
@@ -116,4 +118,3 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
- ../node_modules/
